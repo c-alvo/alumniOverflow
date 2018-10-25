@@ -1,7 +1,7 @@
 # alumniOverflow
 
 # TODO:
-  * Design Database [Christian, Kyle]
+  * Design Database [Christian, Kyle].
   * Fill out TODO
 
 # SETUP
